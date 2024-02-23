@@ -1,4 +1,3 @@
-package ca_cp_sem1;
 
 import java.util.*;
 
